@@ -1,0 +1,15 @@
+// If you want to override variables do it here
+@import "variables";
+
+// Import CoreUI styles
+@import "~@coreui/coreui-pro/scss/coreui.scss";
+
+@import "purchase";
+@import "dashboard";
+
+@import "ordersystem";
+
+// If you want to add something do it here
+@import "custom";
+
+@import "popup";
